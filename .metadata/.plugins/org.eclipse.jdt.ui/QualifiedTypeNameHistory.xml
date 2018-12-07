@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Mapper"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mrunit.mapreduce.MapDriver"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mrunit.mapreduce.ReduceDriver"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mrunit.mapreduce.MapReduceDriver"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.Path"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.FileOutputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Job"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.input.FileInputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.output.FileOutputFormat"/>
+<fullyQualifiedTypeName name="com.revature.map.StatsMapper"/>
+</qualifiedTypeNameHistroy>
